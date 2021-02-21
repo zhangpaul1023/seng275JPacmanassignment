@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nl.tudelft.jpacman.board.BoardTest" tests="24" skipped="0" failures="0" errors="0" timestamp="2021-02-21T08:12:50" hostname="DESKTOP-4MJMVG9" time="0.346">
+  <properties/>
+  <testcase name="testBoard(int, int, boolean)[1]" classname="nl.tudelft.jpacman.board.BoardTest" time="0.144"/>
+  <testcase name="testBoard(int, int, boolean)[2]" classname="nl.tudelft.jpacman.board.BoardTest" time="0.008"/>
+  <testcase name="testBoard(int, int, boolean)[3]" classname="nl.tudelft.jpacman.board.BoardTest" time="0.008"/>
+  <testcase name="testBoard(int, int, boolean)[4]" classname="nl.tudelft.jpacman.board.BoardTest" time="0.008"/>
+  <testcase name="testBoard(int, int, boolean)[5]" classname="nl.tudelft.jpacman.board.BoardTest" time="0.007"/>
+  <testcase name="testBoard(int, int, boolean)[6]" classname="nl.tudelft.jpacman.board.BoardTest" time="0.007"/>
+  <testcase name="testBoard(int, int, boolean)[7]" classname="nl.tudelft.jpacman.board.BoardTest" time="0.009"/>
+  <testcase name="testBoard(int, int, boolean)[8]" classname="nl.tudelft.jpacman.board.BoardTest" time="0.007"/>
+  <testcase name="testBoard(int, int, boolean)[9]" classname="nl.tudelft.jpacman.board.BoardTest" time="0.007"/>
+  <testcase name="testBoard(int, int, boolean)[10]" classname="nl.tudelft.jpacman.board.BoardTest" time="0.008"/>
+  <testcase name="testBoard(int, int, boolean)[11]" classname="nl.tudelft.jpacman.board.BoardTest" time="0.007"/>
+  <testcase name="testBoard(int, int, boolean)[12]" classname="nl.tudelft.jpacman.board.BoardTest" time="0.009"/>
+  <testcase name="testBoard(int, int, boolean)[13]" classname="nl.tudelft.jpacman.board.BoardTest" time="0.007"/>
+  <testcase name="testBoard(int, int, boolean)[14]" classname="nl.tudelft.jpacman.board.BoardTest" time="0.006"/>
+  <testcase name="testBoard(int, int, boolean)[15]" classname="nl.tudelft.jpacman.board.BoardTest" time="0.007"/>
+  <testcase name="testBoard(int, int, boolean)[16]" classname="nl.tudelft.jpacman.board.BoardTest" time="0.006"/>
+  <testcase name="testBoard(int, int, boolean)[17]" classname="nl.tudelft.jpacman.board.BoardTest" time="0.005"/>
+  <testcase name="testBoard(int, int, boolean)[18]" classname="nl.tudelft.jpacman.board.BoardTest" time="0.008"/>
+  <testcase name="testBoard(int, int, boolean)[19]" classname="nl.tudelft.jpacman.board.BoardTest" time="0.007"/>
+  <testcase name="testBoard(int, int, boolean)[20]" classname="nl.tudelft.jpacman.board.BoardTest" time="0.009"/>
+  <testcase name="testBoard(int, int, boolean)[21]" classname="nl.tudelft.jpacman.board.BoardTest" time="0.007"/>
+  <testcase name="testBoard(int, int, boolean)[22]" classname="nl.tudelft.jpacman.board.BoardTest" time="0.006"/>
+  <testcase name="testBoard(int, int, boolean)[23]" classname="nl.tudelft.jpacman.board.BoardTest" time="0.007"/>
+  <testcase name="testBoard(int, int, boolean)[24]" classname="nl.tudelft.jpacman.board.BoardTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

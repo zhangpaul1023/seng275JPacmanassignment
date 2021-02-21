@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nl.tudelft.jpacman.board.BoardTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-02-21T08:12:48" hostname="DESKTOP-4MJMVG9" time="0.205">
+  <properties/>
+  <testcase name="verifyWidth()" classname="nl.tudelft.jpacman.board.BoardTest" time="0.096"/>
+  <testcase name="verifyHeight()" classname="nl.tudelft.jpacman.board.BoardTest" time="0.001"/>
+  <testcase name="testSquareAt(int, int)[1]" classname="nl.tudelft.jpacman.board.BoardTest" time="0.023"/>
+  <testcase name="testSquareAt(int, int)[2]" classname="nl.tudelft.jpacman.board.BoardTest" time="0.001"/>
+  <testcase name="testSquareAt(int, int)[3]" classname="nl.tudelft.jpacman.board.BoardTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
