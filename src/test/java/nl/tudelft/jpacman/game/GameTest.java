@@ -28,9 +28,7 @@ class GameTest {
                                     "#P.......C..",
                                     "############"));
         Ghost mockedGhost = mock(Ghost.class);
-        when(mockedLevelFactory.create()).thenReturn(mockedGhost);
-        game.start();
-        assertFalse(game.isInProgress());
+
     }
 
 }
